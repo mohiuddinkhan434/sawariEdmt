@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "209090770222",
+    "firebase_url": "https://sawariedmt.firebaseio.com",
+    "project_id": "sawariedmt",
+    "storage_bucket": "sawariedmt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209090770222:android:d59e11cc357c5ebe",
+        "android_client_info": {
+          "package_name": "com.sawariedmt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "209090770222-djh162o65curj93b269p6fj7ti1pa2h1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sawariedmt",
+            "certificate_hash": "fa4fc2882824492731816a596c1191f11a918a6f"
+          }
+        },
+        {
+          "client_id": "209090770222-1sd8hlv6ml0gqrmnujvtscs51apo6atf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAfb9Tia10cB3dHL3Y-9cavZaqW_y_Fmw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "209090770222-1sd8hlv6ml0gqrmnujvtscs51apo6atf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
