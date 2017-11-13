@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SawariOnline</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="resend_phone_auth">Resend</string>
+    <string name="verify_phone_auth">Verify</string>
+    <string name="start_phone_auth">Start</string>
+    <string name="hint_phone_number">Phone Number</string>
+    <string name="hint_verification_code">Verification Code</string>
+    <string name="signed_out">Signed Out</string>
+    <string name="phone_title_text">Phone Number</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyAOcXeenxyG-lXF36n07XtywWO95J73hjU</string>
+
+
+
+</resources>
